@@ -1,8 +1,5 @@
 <!DOCTYPE html>
 <html>
-<head>
-    <title>6to</title>
-</head>
 <body>
     <h1>
         SEXTO AÑO TECNICA Nº9
@@ -136,7 +133,5 @@
                 <td>Sebastián</td>
             </tr>
         </tbody>
-
-    </table>
 </body>
 </html>
